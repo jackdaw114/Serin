@@ -7,7 +7,7 @@ public:
 	{
 
 	}
-	~Sandbox()
+	~Sandbox() 
 	{
 
 	}
